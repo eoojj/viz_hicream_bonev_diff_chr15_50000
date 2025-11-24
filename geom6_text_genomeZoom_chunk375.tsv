@@ -1,0 +1,7 @@
+group	label	showSelected1
+1	Cluster 1: 50/6813 pixels shown, logFC -4.8 to 4.5, log10(p) 0.0 to 4.0	1
+1	Cluster 68: 540/1051 pixels shown, logFC -3.5 to 5.0, log10(p) 0.0 to 4.3	68
+1	Cluster 341: 10/1038 pixels shown, logFC -3.8 to 4.7, log10(p) 0.0 to 3.5	341
+1	Cluster 345: 472/7122 pixels shown, logFC -4.0 to 4.9, log10(p) 0.0 to 5.0	345
+1	Cluster 989: 621/664 pixels shown, logFC -4.3 to 3.4, log10(p) 0.0 to 3.3	989
+1	Cluster 1980: 73/105 pixels shown, logFC -4.0 to 1.9, log10(p) 0.0 to 1.8	1980
